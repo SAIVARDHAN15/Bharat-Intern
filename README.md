@@ -36,6 +36,16 @@ A predictive system built to estimate the quality of wine based on its physicoch
     * Feature visualization
     * Quality Classification/Prediction
 
+### Task 3: Wine Quality Analysis
+* **Description:** A continuation or variation of the wine quality analysis project.
+* **File:** `task3/TASK 2.ipynb`
+* **Dataset:** `WineQuality.csv`
+
+## Technologies Used
+* **Language:** Python
+* **Libraries:** * Pandas (Data Manipulation)
+    * NumPy (Numerical Operations)
+    * Matplotlib & Seaborn (Data Visualization)
 ---
 
 ## 🛠️ Tech Stack
